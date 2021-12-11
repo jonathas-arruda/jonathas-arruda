@@ -2,7 +2,6 @@
 
 - 🌱 Trainee dev front end.
 - 👯 Trabalhando na Junta Local.
-- 📫 Contato : jonathasarruda@outlook.com
   
   <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=jonathas-arruda&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
