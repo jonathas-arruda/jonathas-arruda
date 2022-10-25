@@ -1,6 +1,6 @@
 ### Olá, eu sou o Jonathas Arruda 👋
 
-- 🌱 Trainee dev front end.
+- 🌱 Dev FullStack.
 - 👯 OPEN TO WORK!!!
   
   <p align="left">
